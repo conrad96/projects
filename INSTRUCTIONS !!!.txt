@@ -1,0 +1,28 @@
+Steps:
+
+-Go to your C drive C:
+
+-Create folder encryptor
+c:/encryptor
+
+-Go to application INSERT KEY (8 characters/letters/numbers) 
+
+-Then go to encrypt and choose file
+
+-Encrypted file will be saved in same location as this application
+
+-To Decrypt ,click Decrypt button and select that encrypted file
+
+-Once done ,the decrypted file will be located in 
+C:/encryptor directory
+
+
+ENJOY..!!!!
+
+******************************************
+Software By:                             |
+Conrad Mugisha [MAC-tech].               |
+                                         |
+******************************************
+Requiremnts:
+java JDK 1.2 and above
